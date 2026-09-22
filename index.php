@@ -20,7 +20,7 @@ require_once 'includes/header.php';
                                 TIGER FORCE<br>
                                 <span class="hero-highlight-slider">SOLAR FENCING SYSTEM</span>
                             </h1>
-                            <p class="hero-subtitle-slider">Powered by H V ENTERPRISE</p>
+                            <p class="hero-subtitle-slider">Powered by Hevik Innovators India Pvt Ltd</p>
                             <div class="hero-buttons-slider">
                                 <a href="products.php" class="btn-modern btn-primary-modern btn-large">
                                     <i class="fas fa-solar-panel"></i>
@@ -123,14 +123,14 @@ require_once 'includes/header.php';
             <div class="about-content">
                 <div class="about-text">
                     <p class="about-description">
-                        TIGER FORCE Fence is one of the pioneer in manufacturing various solar fencing systems and solar based components in the Country like Solar Fencing System. Due to the changing scenario of security threats worldwide, the time has come to think differently in protecting your family and properties.
+                        Hevik Innovators India Pvt Ltd is one of the pioneer in manufacturing various solar fencing systems and solar based components in the Country like Solar Fencing System. Due to the changing scenario of security threats worldwide, the time has come to think differently in protecting your family and properties.
                     </p>
                     <p class="about-description">
                         Solar Fencing Perimeter Protection is the modern day need to the growing security threat in denying, detecting while having the inbuilt capability to serve as a deterrent.
                     </p>
                     <div class="about-stats">
                         <div class="stat-item">
-                            <div class="stat-number">1000+</div>
+                            <div class="stat-number">15000+</div>
                             <div class="stat-label">Installations</div>
                         </div>
                         <div class="stat-item">
@@ -160,7 +160,7 @@ require_once 'includes/header.php';
         <div class="products-grid">
             <div class="product-card-modern">
                 <div class="product-image">
-                    <img src="images/Tiger-250.jpeg" alt="Tiger-250" class="product-img">
+                    <img src="images/Tiger-250.jpg" alt="Tiger-250" class="product-img">
                     <div class="product-overlay">
                         <a href="products.php" class="product-link">
                             <i class="fas fa-arrow-right"></i>
@@ -180,7 +180,7 @@ require_once 'includes/header.php';
 
             <div class="product-card-modern">
                 <div class="product-image">
-                    <img src="images/Tiger-500.jpeg" alt="Tiger-500" class="product-img">
+                    <img src="images/Tiger-500.jpg" alt="Tiger-500" class="product-img">
                     <div class="product-overlay">
                         <a href="products.php" class="product-link">
                             <i class="fas fa-arrow-right"></i>
@@ -191,6 +191,66 @@ require_once 'includes/header.php';
                     <h3 class="product-title">Tiger-500</h3>
                     <p class="product-description">
                         Our high quality, tailored solar fencing Systems are used by corporate, residential and local authority sectors throughout the country.
+                    </p>
+                    <a href="products.php" class="product-cta">
+                        Learn More <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="product-card-modern">
+                <div class="product-image">
+                    <img src="images/green-insulator.jpeg" alt="Green Jumbo" class="product-img">
+                    <div class="product-overlay">
+                        <a href="products.php" class="product-link">
+                            <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-title">Green Jumbo</h3>
+                    <p class="product-description">
+                        Durable PPCP jumbo insulator with top dual-hook design for reliable wire support and easy installation.
+                    </p>
+                    <a href="products.php" class="product-cta">
+                        Learn More <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="product-card-modern">
+                <div class="product-image">
+                    <img src="images/corner-insulator.jpeg" alt="Jumbo Corner" class="product-img">
+                    <div class="product-overlay">
+                        <a href="products.php" class="product-link">
+                            <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-title">Jumbo Corner</h3>
+                    <p class="product-description">
+                        Black PPCP corner insulator with top slot and cross-pin hole for secure fastening at fence corners.
+                    </p>
+                    <a href="products.php" class="product-cta">
+                        Learn More <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="product-card-modern">
+                <div class="product-image">
+                    <img src="images/tension_spring.png" alt="Tension Spring" class="product-img">
+                    <div class="product-overlay">
+                        <a href="products.php" class="product-link">
+                            <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="product-content">
+                    <h3 class="product-title">Tension Spring</h3>
+                    <p class="product-description">
+                        GI coated 8 inch tension spring for maintaining proper wire tension across your solar fencing system.
                     </p>
                     <a href="products.php" class="product-cta">
                         Learn More <i class="fas fa-arrow-right"></i>
@@ -272,5 +332,136 @@ require_once 'includes/header.php';
         </div>
     </div>
 </section>
+
+<!-- Modern Certificates Section -->
+<section class="certificates-modern">
+    <div class="certificate-decor cert-decor-1"></div>
+    <div class="certificate-decor cert-decor-2"></div>
+
+    <div class="container-modern">
+        <div class="section-header">
+            <span class="section-badge"><i class="fas fa-award"></i> Our Certifications</span>
+            <h2 class="section-title">Certified. Trusted. <span class="title-highlight">Proven.</span></h2>
+            <p class="section-description">Backed by industry-recognized certifications that guarantee reliability, safety and performance.</p>
+        </div>
+
+        <div class="certificates-grid">
+            <figure class="certificate-card" data-cert-index="0">
+                <div class="certificate-frame">
+                    <div class="certificate-image">
+                        <img src="images/certificate/certificate-1.jpg" alt="Certificate 1" class="certificate-img">
+                        <div class="certificate-zoom"><i class="fas fa-search-plus"></i></div>
+                    </div>
+                </div>
+            </figure>
+
+            <figure class="certificate-card" data-cert-index="1">
+                <div class="certificate-frame">
+                    <div class="certificate-image">
+                        <img src="images/certificate/certificate-2.jpg" alt="Certificate 2" class="certificate-img">
+                        <div class="certificate-zoom"><i class="fas fa-search-plus"></i></div>
+                    </div>
+                </div>
+            </figure>
+
+            <figure class="certificate-card" data-cert-index="2">
+                <div class="certificate-frame">
+                    <div class="certificate-image">
+                        <img src="images/certificate/certificate-3.jpg" alt="Certificate 3" class="certificate-img">
+                        <div class="certificate-zoom"><i class="fas fa-search-plus"></i></div>
+                    </div>
+                </div>
+            </figure>
+
+            <figure class="certificate-card certificate-card--wide" data-cert-index="3">
+                <div class="certificate-frame">
+                    <div class="certificate-image">
+                        <img src="images/certificate/certificate-4.jpg" alt="Certificate 4" class="certificate-img">
+                        <div class="certificate-zoom"><i class="fas fa-search-plus"></i></div>
+                    </div>
+                </div>
+            </figure>
+        </div>
+    </div>
+</section>
+
+<!-- Certificate Lightbox -->
+<div class="certificate-lightbox" id="certificateLightbox" aria-hidden="true">
+    <button class="lightbox-close" aria-label="Close"><i class="fas fa-times"></i></button>
+    <button class="lightbox-nav lightbox-prev" aria-label="Previous"><i class="fas fa-chevron-left"></i></button>
+    <div class="lightbox-content">
+        <img src="" alt="Certificate" class="lightbox-img">
+    </div>
+    <button class="lightbox-nav lightbox-next" aria-label="Next"><i class="fas fa-chevron-right"></i></button>
+</div>
+
+<script>
+(function() {
+    var cards = Array.prototype.slice.call(document.querySelectorAll('.certificate-card'));
+    if (!cards.length) return;
+
+    var lightbox = document.getElementById('certificateLightbox');
+    var lightboxImg = lightbox.querySelector('.lightbox-img');
+    var closeBtn = lightbox.querySelector('.lightbox-close');
+    var prevBtn = lightbox.querySelector('.lightbox-prev');
+    var nextBtn = lightbox.querySelector('.lightbox-next');
+    var current = 0;
+
+    function show(index) {
+        current = (index + cards.length) % cards.length;
+        lightboxImg.src = cards[current].querySelector('.certificate-img').src;
+        resetZoom();
+    }
+
+    function resetZoom() {
+        lightboxImg.classList.remove('zoomed');
+        lightboxImg.style.transformOrigin = '';
+    }
+
+    function open(index) {
+        show(index);
+        lightbox.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+
+    function close() {
+        resetZoom();
+        lightbox.classList.remove('active');
+        document.body.style.overflow = '';
+    }
+
+    cards.forEach(function(card) {
+        card.addEventListener('click', function() {
+            open(parseInt(card.getAttribute('data-cert-index')));
+        });
+    });
+
+    lightboxImg.addEventListener('dblclick', function(e) {
+        e.preventDefault();
+        if (lightboxImg.classList.contains('zoomed')) {
+            resetZoom();
+            return;
+        }
+        var rect = lightboxImg.getBoundingClientRect();
+        var x = e.clientX - rect.left;
+        var y = e.clientY - rect.top;
+        lightboxImg.style.transformOrigin = (x / rect.width * 100) + '% ' + (y / rect.height * 100) + '%';
+        lightboxImg.classList.add('zoomed');
+    });
+
+    closeBtn.addEventListener('click', close);
+    prevBtn.addEventListener('click', function(e) { e.stopPropagation(); show(current - 1); });
+    nextBtn.addEventListener('click', function(e) { e.stopPropagation(); show(current + 1); });
+    lightbox.addEventListener('click', function(e) {
+        if (e.target === lightbox) close();
+    });
+    document.addEventListener('keydown', function(e) {
+        if (!lightbox.classList.contains('active')) return;
+        if (e.key === 'Escape') close();
+        if (e.key === 'ArrowLeft') show(current - 1);
+        if (e.key === 'ArrowRight') show(current + 1);
+    });
+})();
+</script>
 
 <?php require_once 'includes/footer.php'; ?>

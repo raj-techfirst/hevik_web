@@ -16,7 +16,7 @@ require_once 'includes/header.php';
         </div>
     </div>
     <div class="page-hero-image">
-        <img src="images/contact.png" alt="Contact Tiger Force" class="hero-bg-img">
+        <img src="images/contact.jpeg" alt="Contact Tiger Force" class="hero-bg-img">
     </div>
 </section>
 
@@ -29,7 +29,7 @@ require_once 'includes/header.php';
                 <div class="contact-header">
                     <h2 class="contact-title">Let's Get In Touch</h2>
                     <p class="contact-description">
-                        TIGER FORCE Fence is one of the pioneer in manufacturing various solar fencing systems and solar based components in the Country like Solar Fencing System.
+                        Hevik Innovators India Pvt Ltd is one of the pioneer in manufacturing various solar fencing systems and solar based components in the Country like Solar Fencing System.
                     </p>
                 </div>
 
@@ -41,9 +41,10 @@ require_once 'includes/header.php';
                         <div class="contact-text-pg">
                             <h4 class="contact-label">Visit Us</h4>
                             <p class="contact-value">
-                                H V ENTERPRISE<br>
-                                Shop No. 30, Shashtrinagar(Ajmera),<br>
-                                Nana Mava Main Road, Rajkot-360005
+                                Hevik Innovators India Pvt Ltd,<br>
+                                Servey no 44, Plot no.82,
+                                   Nr.Jay bharat School,<br>
+                                150ft ring road, Vavdi,Rajkot-360004
                             </p>
                         </div>
                     </div>
@@ -67,7 +68,7 @@ require_once 'includes/header.php';
                         <div class="contact-text">
                             <h4 class="contact-label">Email Us</h4>
                             <p class="contact-value">
-                                <a href="mailto:hventerprice10@gmail.com">hventerprice10@gmail.com</a>
+                                <a href="mailto:hevikInnovatorsindia@gmail.com">hevikInnovatorsindia@gmail.com</a>
                             </p>
                         </div>
                     </div>
@@ -102,15 +103,7 @@ require_once 'includes/header.php';
                 </div>
 
                 <div class="map-container">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.1234567890123!2d70.8023456789012!3d22.3034567890123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be0123456789012%3A0xabcdef1234567890!2sH%20V%20Enterprise!5e0!3m2!1sen!2sin!4v1691234567890!5m2!1sen!2sin"
-                        width="100%"
-                        height="450"
-                        style="border:0;"
-                        allowfullscreen=""
-                        loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade">
-                    </iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7385.903235868966!2d70.78379630935021!3d22.24191441800604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959cb67d04cc6c5%3A0xa0b3fb32db9756c4!2sTIGER%20FORCE%20SOLAR%20FENCING!5e0!3m2!1sen!2sin!4v1789624804370!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
                 </div>
             </div>
         </div>
@@ -130,7 +123,7 @@ require_once 'includes/header.php';
                     <i class="fas fa-phone"></i>
                     Call Now
                 </a>
-                <a href="mailto:hventerprice10@gmail.com" class="btn-modern btn-secondary-modern btn-large">
+                <a href="mailto:hevikInnovatorsindia@gmail.com" class="btn-modern btn-secondary-modern btn-large">
                     <i class="fas fa-envelope"></i>
                     Email Us
                 </a>

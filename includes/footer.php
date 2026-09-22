@@ -4,9 +4,9 @@
            <div class="footer-content">
                <div class="footer-section">
                    <div class="footer-brand">
-                       <img src="images/logo.png" alt="Tiger Force" class="footer-logo">
+                       <img src="images/logo.png" alt="Hevik Innovators" class="footer-logo">
                        <p class="footer-description">
-                           TIGER FORCE Fence is one of the pioneer in manufacturing various solar fencing systems and solar based components in the Country like Solar Fencing System.
+                           Hevik Innovators India Pvt Ltd is one of the pioneer in manufacturing various solar fencing systems and solar based components in the Country like Solar Fencing System.
                        </p>
                    </div>
                </div>
@@ -27,9 +27,10 @@
                        <div class="contact-item">
                            <i class="fas fa-map-marker-alt"></i>
                            <div class="contact-text">
-                               <p>H V ENTERPRISE<br>
-                                   Shop No. 30, Shashtrinagar(Ajmera),<br>
-                                   Nana Mava Main Road, Rajkot-360005.</p>
+                               <p>Hevik Innovators India Pvt Ltd,<br>
+                                   Servey no 44, Plot no.82,
+                                   Nr.Jay bharat School,<br>
+                                   150ft ring road, Vavdi,Rajkot-360004</p>
                            </div>
                        </div>
                        <div class="contact-item">
@@ -41,7 +42,7 @@
                        <div class="contact-item">
                            <i class="fas fa-envelope"></i>
                            <div class="contact-text">
-                               <a href="mailto:hventerprice10@gmail.com">hventerprice10@gmail.com</a>
+                               <a href="mailto:hevikInnovatorsindia@gmail.com">hevikInnovatorsindia@gmail.com</a>
                            </div>
                        </div>
                    </div>

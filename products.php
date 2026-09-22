@@ -10,7 +10,7 @@ require_once 'includes/header.php';
         <div class="container-modern">
             <div class="page-hero-text">
                 <span class="hero-badge">Our Products</span>
-                <h1 class="page-hero-title">TIGER FORCE ZATKA MACHINE</h1>
+                <h1 class="page-hero-title">TIGER FORCE FENCE ENERGIZER</h1>
                 <p class="page-hero-subtitle">Advanced solar fencing solutions for comprehensive security</p>
             </div>
         </div>
@@ -335,7 +335,7 @@ require_once 'includes/header.php';
                     </div>
                     <div class="spec-item">
                         <div class="spec-label">Color</div>
-                        <div class="spec-value">Grey Metallic</div>
+                        <div class="spec-value">Silver</div>
                     </div>
                     <div class="spec-item">
                         <div class="spec-label">Size</div>

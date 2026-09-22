@@ -9,8 +9,8 @@ require_once 'includes/header.php';
     <div class="page-hero-content">
         <div class="container-modern">
             <div class="page-hero-text">
-                <span class="hero-badge">About Tiger Force</span>
-                <h1 class="page-hero-title">Leading Solar Fencing Innovation Since 2009</h1>
+                <span class="hero-badge">About Hevik Innovators India Pvt Ltd</span>
+                <h1 class="page-hero-title">Leading Solar Fencing Innovation Since 2016</h1>
                 <p class="page-hero-subtitle">Pioneering sustainable security solutions with cutting-edge solar technology</p>
             </div>
         </div>
@@ -26,7 +26,7 @@ require_once 'includes/header.php';
         <div class="overview-grid">
             <div class="overview-content">
                 <div class="section-header">
-                    <span class="section-badge">H V ENTERPRISE</span>
+                    <span class="section-badge">Hevik Innovators India Pvt Ltd</span>
                     <h2 class="section-title">Trusted Security Partner</h2>
                 </div>
                 <div class="overview-text">
@@ -34,7 +34,7 @@ require_once 'includes/header.php';
                         Keeping people, animals and property safe is no easy task. You want a brand you can trust with a wide range of products and services that are cost effective, quick to install and easy to use.
                     </p>
                     <p class="overview-description">
-                        TIGER FORCE has been an innovative and reliable force in the electric fence industry for over 10 years. Manufacturing a full range of energizers and fencing hardware, TIGER FORCE uses its in-house knowledge and expertise to deliver applications in agricultural animal management and industrial-, commercial- and residential-security fencing.
+                        Hevik Innovators India Pvt Ltd has been an innovative and reliable force in the electric fence industry for over 10 years. Manufacturing a full range of energizers and fencing hardware, TIGER FORCE uses its in-house knowledge and expertise to deliver applications in agricultural animal management and industrial-, commercial- and residential-security fencing.
                     </p>
                     <p class="overview-description">
                         Whether you're starting from scratch or upgrading an existing electric fence system, we have the perfect solution for your security needs. We are the only solar fencing system manufacturing company in India with more than 15 years of rich and varied experience in execution of landmark security projects across the length and breadth of the country.
