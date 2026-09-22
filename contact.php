@@ -16,7 +16,7 @@ require_once 'includes/header.php';
         </div>
     </div>
     <div class="page-hero-image">
-        <img src="images/contact.jpeg" alt="Contact Tiger Force" class="hero-bg-img">
+        <img src="images/contact.png" alt="Contact Tiger Force" class="hero-bg-img">
     </div>
 </section>
 
